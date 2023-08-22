@@ -1,0 +1,954 @@
+[
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "NextStepsMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/1/%vlocity_namespace%__CalculationMatrix__c/NextStepsMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "29df22b3-1ff0-c82f-8e18-ca3694ae6f49",
+        "%vlocity_namespace%__InputData__c": {
+            "columnKey": "3c61a2",
+            "dataType": "Text",
+            "displayOrder": 11,
+            "headerType": "Output",
+            "label": null,
+            "lineItemId": null,
+            "listValues": null,
+            "name": "actionTarget"
+        },
+        "IsLocked": false,
+        "MayEdit": true,
+        "Name": "Header",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "NextStepsMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/1/%vlocity_namespace%__CalculationMatrix__c/NextStepsMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "99e11185-d7d5-17ae-0bd4-01fccf859c7f",
+        "%vlocity_namespace%__InputData__c": {
+            "columnKey": "4bf4ce",
+            "dataType": "Text",
+            "displayOrder": 2,
+            "headerType": "Input",
+            "label": null,
+            "lineItemId": null,
+            "listValues": null,
+            "name": "status"
+        },
+        "IsLocked": false,
+        "MayEdit": true,
+        "Name": "Header",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "NextStepsMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/1/%vlocity_namespace%__CalculationMatrix__c/NextStepsMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "5093b304-5030-4a3c-9f98-de6dd5dbbf96",
+        "%vlocity_namespace%__InputData__c": {
+            "columnKey": "52b4ee",
+            "dataType": "Text",
+            "displayOrder": 4,
+            "headerType": "Output",
+            "label": null,
+            "lineItemId": null,
+            "listValues": null,
+            "name": "stepMessage"
+        },
+        "IsLocked": false,
+        "MayEdit": true,
+        "Name": "Header",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "NextStepsMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/1/%vlocity_namespace%__CalculationMatrix__c/NextStepsMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "bbf55c40-8c55-115c-9ee5-305b5d8cd00c",
+        "%vlocity_namespace%__InputData__c": {
+            "columnKey": "5e86e5",
+            "dataType": "Text",
+            "displayOrder": 10,
+            "headerType": "Output",
+            "label": null,
+            "lineItemId": null,
+            "listValues": null,
+            "name": "actionLabel"
+        },
+        "IsLocked": false,
+        "MayEdit": true,
+        "Name": "Header",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "NextStepsMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/1/%vlocity_namespace%__CalculationMatrix__c/NextStepsMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "0a7ae620-97e1-f383-2a84-3b7efea42994",
+        "%vlocity_namespace%__InputData__c": {
+            "columnKey": "603682",
+            "dataType": "Boolean",
+            "displayOrder": 7,
+            "headerType": "Output",
+            "label": null,
+            "lineItemId": null,
+            "listValues": null,
+            "name": "disableAction"
+        },
+        "IsLocked": false,
+        "MayEdit": true,
+        "Name": "Header",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "NextStepsMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/1/%vlocity_namespace%__CalculationMatrix__c/NextStepsMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "dfbe2022-3c57-6894-457f-78db12cd4021",
+        "%vlocity_namespace%__InputData__c": {
+            "columnKey": "77bcb6",
+            "dataType": "Text",
+            "displayOrder": 5,
+            "headerType": "Output",
+            "label": null,
+            "lineItemId": null,
+            "listValues": null,
+            "name": "stepStatus"
+        },
+        "IsLocked": false,
+        "MayEdit": true,
+        "Name": "Header",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "NextStepsMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/1/%vlocity_namespace%__CalculationMatrix__c/NextStepsMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "9c2ea1eb-db5d-958c-ac0a-b98e44da2190",
+        "%vlocity_namespace%__InputData__c": {
+            "columnKey": "79fef6",
+            "dataType": "Text",
+            "displayOrder": 3,
+            "headerType": "Output",
+            "label": null,
+            "lineItemId": null,
+            "listValues": null,
+            "name": "stepTitle"
+        },
+        "IsLocked": false,
+        "MayEdit": true,
+        "Name": "Header",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "NextStepsMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/1/%vlocity_namespace%__CalculationMatrix__c/NextStepsMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "788d7f0e-77ea-8bad-fd5a-50f0d1c2a6cc",
+        "%vlocity_namespace%__InputData__c": {
+            "columnKey": "a3b1ef",
+            "dataType": "Text",
+            "displayOrder": 1,
+            "headerType": "Input",
+            "label": null,
+            "lineItemId": null,
+            "listValues": null,
+            "name": "step"
+        },
+        "IsLocked": false,
+        "MayEdit": true,
+        "Name": "Header",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "NextStepsMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/1/%vlocity_namespace%__CalculationMatrix__c/NextStepsMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "db954157-8ab6-b5c4-1d89-ab4ec5002303",
+        "%vlocity_namespace%__InputData__c": {
+            "columnKey": "b9e610",
+            "dataType": "Number",
+            "displayOrder": 6,
+            "headerType": "Output",
+            "label": null,
+            "lineItemId": null,
+            "listValues": null,
+            "name": "sequence"
+        },
+        "IsLocked": false,
+        "MayEdit": true,
+        "Name": "Header",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "NextStepsMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/1/%vlocity_namespace%__CalculationMatrix__c/NextStepsMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "d7b22628-a2c3-de42-d9d1-4730af12cf06",
+        "%vlocity_namespace%__InputData__c": {
+            "columnKey": "bc613",
+            "dataType": "Boolean",
+            "displayOrder": 8,
+            "headerType": "Output",
+            "label": null,
+            "lineItemId": null,
+            "listValues": null,
+            "name": "hideSection"
+        },
+        "IsLocked": false,
+        "MayEdit": true,
+        "Name": "Header",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "NextStepsMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/1/%vlocity_namespace%__CalculationMatrix__c/NextStepsMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "f01fd89f-0b73-b752-0d1b-29d2ac147cda",
+        "%vlocity_namespace%__InputData__c": {
+            "columnKey": "bcc6dc",
+            "dataType": "Text",
+            "displayOrder": 12,
+            "headerType": "Output",
+            "label": null,
+            "lineItemId": null,
+            "listValues": null,
+            "name": "actionTargetName"
+        },
+        "IsLocked": false,
+        "MayEdit": true,
+        "Name": "Header",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "NextStepsMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/1/%vlocity_namespace%__CalculationMatrix__c/NextStepsMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "769a25f4-71e5-a4ba-e36b-506c9f1ace9d",
+        "%vlocity_namespace%__InputData__c": {
+            "columnKey": "dc7bad",
+            "dataType": "Text",
+            "displayOrder": 13,
+            "headerType": "Output",
+            "label": null,
+            "lineItemId": null,
+            "listValues": null,
+            "name": "actionParameters"
+        },
+        "IsLocked": false,
+        "MayEdit": true,
+        "Name": "Header",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "NextStepsMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/1/%vlocity_namespace%__CalculationMatrix__c/NextStepsMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "97f75532-f67d-2dc2-a069-a704d76695ad",
+        "%vlocity_namespace%__InputData__c": {
+            "columnKey": "ed0788",
+            "dataType": "Text",
+            "displayOrder": 9,
+            "headerType": "Output",
+            "label": null,
+            "lineItemId": null,
+            "listValues": null,
+            "name": "actionType"
+        },
+        "IsLocked": false,
+        "MayEdit": true,
+        "Name": "Header",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "NextStepsMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/1/%vlocity_namespace%__CalculationMatrix__c/NextStepsMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "8a2d90be-56af-d8d2-1e5b-9e1f9f729290",
+        "%vlocity_namespace%__InputData__c": {
+            "status": "Activated",
+            "step": "Contract"
+        },
+        "%vlocity_namespace%__OutputDataLong__c": {
+            "actionLabel": "Go to Contract Record",
+            "actionParameters": "{\"Id\":\"<<contractId>>\"}",
+            "actionTarget": "RecordPage",
+            "actionTargetName": "recordId",
+            "actionType": "Button",
+            "disableAction": "false",
+            "hideSection": "false",
+            "sequence": 1,
+            "stepMessage": "Contract Activated. Select <strong>Go to Contract Record</strong> to view the contract record.",
+            "stepStatus": "Completed",
+            "stepTitle": "Contract"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2023-07-31T18:30:00.000Z",
+        "IsLocked": false,
+        "MayEdit": true,
+        "Name": "7e534f3d6840947677bd779700131b1d",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "NextStepsMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/1/%vlocity_namespace%__CalculationMatrix__c/NextStepsMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "7b926eba-c2a6-70ed-d91b-6bd86e57b2db",
+        "%vlocity_namespace%__InputData__c": {
+            "status": "Activated",
+            "step": "Order"
+        },
+        "%vlocity_namespace%__OutputDataLong__c": {
+            "actionLabel": "Go to Order Record",
+            "actionParameters": "{\"Id\":\"<<orderId>>\"}",
+            "actionTarget": "RecordPage",
+            "actionTargetName": "recordId",
+            "actionType": "Button",
+            "disableAction": "false",
+            "hideSection": "false",
+            "sequence": 2,
+            "stepMessage": "Order Activated. Select <strong>Go to Order Record</strong> to view the order record.",
+            "stepStatus": "In Progress",
+            "stepTitle": "Order"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2023-07-31T18:30:00.000Z",
+        "IsLocked": false,
+        "MayEdit": true,
+        "Name": "606d4531fafb2af5efe06e052dba74d7",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "NextStepsMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/1/%vlocity_namespace%__CalculationMatrix__c/NextStepsMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "05e667b3-ba4a-c483-3dbb-a141f528a3ee",
+        "%vlocity_namespace%__InputData__c": {
+            "status": "Approved",
+            "step": "Contract"
+        },
+        "%vlocity_namespace%__OutputDataLong__c": {
+            "actionLabel": "Go to Contract Record",
+            "actionParameters": "{\"Id\":\"<<contractId>>\"}",
+            "actionTarget": "RecordPage",
+            "actionTargetName": "recordId",
+            "actionType": "Button",
+            "disableAction": "false",
+            "hideSection": "false",
+            "sequence": 1,
+            "stepMessage": "Contract Approved Select <strong>Go to Contract Record</strong> to view the contract record.",
+            "stepStatus": "In Progress",
+            "stepTitle": "Contract"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2023-07-31T18:30:00.000Z",
+        "IsLocked": false,
+        "MayEdit": true,
+        "Name": "c75ba0f9215ec9f5980965b48bfba668",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "NextStepsMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/1/%vlocity_namespace%__CalculationMatrix__c/NextStepsMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "99b7f67f-ff85-1d31-ed48-6da80ad6c2db",
+        "%vlocity_namespace%__InputData__c": {
+            "status": "Awaiting Approval",
+            "step": "Contract"
+        },
+        "%vlocity_namespace%__OutputDataLong__c": {
+            "actionLabel": "Go to Contract Record",
+            "actionParameters": "{\"Id\":\"<<contractId>>\"}",
+            "actionTarget": "RecordPage",
+            "actionTargetName": "recordId",
+            "actionType": "Button",
+            "disableAction": "false",
+            "hideSection": "false",
+            "sequence": 1,
+            "stepMessage": "Contract Awaiting Approval. Select <strong>Go to Contract Record</strong> to view the contract record.",
+            "stepStatus": "In Progress",
+            "stepTitle": "Contract"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2023-07-31T18:30:00.000Z",
+        "IsLocked": false,
+        "MayEdit": true,
+        "Name": "fb9c691fe325e5d9519bfcd08c0c14d4",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "NextStepsMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/1/%vlocity_namespace%__CalculationMatrix__c/NextStepsMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "e3d0eac8-b89f-4db1-e470-96882e99e02c",
+        "%vlocity_namespace%__InputData__c": {
+            "status": "Awaiting Signature",
+            "step": "Contract"
+        },
+        "%vlocity_namespace%__OutputDataLong__c": {
+            "actionLabel": "Go to Contract Record",
+            "actionParameters": "{\"Id\":\"<<contractId>>\"}",
+            "actionTarget": "RecordPage",
+            "actionTargetName": "recordId",
+            "actionType": "Button",
+            "disableAction": "false",
+            "hideSection": "false",
+            "sequence": 1,
+            "stepMessage": "Contract Awaiting Signature. Select <strong>Go to Contract Record</strong> to view the contract record.",
+            "stepStatus": "In Progress",
+            "stepTitle": "Contract"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2023-07-31T18:30:00.000Z",
+        "IsLocked": false,
+        "MayEdit": true,
+        "Name": "30605937823ef912fa1ecf674613eecf",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "NextStepsMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/1/%vlocity_namespace%__CalculationMatrix__c/NextStepsMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "3ceb8aa7-7523-8083-7689-50218cfec5cd",
+        "%vlocity_namespace%__InputData__c": {
+            "status": "Cancelled",
+            "step": "Contract"
+        },
+        "%vlocity_namespace%__OutputDataLong__c": {
+            "actionLabel": "Go to Contract Record",
+            "actionParameters": "{\"Id\":\"<<contractId>>\"}",
+            "actionTarget": "RecordPage",
+            "actionTargetName": "recordId",
+            "actionType": "Button",
+            "disableAction": "false",
+            "hideSection": "false",
+            "sequence": 1,
+            "stepMessage": "Contract Cancelled. Select <strong>Go to Contract Record</strong> to view the contract record.",
+            "stepStatus": "Warning",
+            "stepTitle": "Contract"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2023-07-31T18:30:00.000Z",
+        "IsLocked": false,
+        "MayEdit": true,
+        "Name": "41202ba4b1848fd9e56e4af2caaa86ab",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "NextStepsMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/1/%vlocity_namespace%__CalculationMatrix__c/NextStepsMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "60db0457-0832-c655-2b47-18f45ac60ba0",
+        "%vlocity_namespace%__InputData__c": {
+            "status": "Delivered",
+            "step": "Order"
+        },
+        "%vlocity_namespace%__OutputDataLong__c": {
+            "actionLabel": "Go to Order Record",
+            "actionParameters": "{\"Id\":\"<<orderId>>\"}",
+            "actionTarget": "RecordPage",
+            "actionTargetName": "recordId",
+            "actionType": "Button",
+            "disableAction": "false",
+            "hideSection": "false",
+            "sequence": 2,
+            "stepMessage": "Order Delivered. Select <strong>Go to Order Record</strong> to view the order record.",
+            "stepStatus": "In Progress",
+            "stepTitle": "Order"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2023-07-31T18:30:00.000Z",
+        "IsLocked": false,
+        "MayEdit": true,
+        "Name": "9e0ae8003242ba1764e09ed0270388f3",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "NextStepsMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/1/%vlocity_namespace%__CalculationMatrix__c/NextStepsMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "a069f183-ac50-3c1e-5841-9c987a1d37e6",
+        "%vlocity_namespace%__InputData__c": {
+            "status": "Draft",
+            "step": "Contract"
+        },
+        "%vlocity_namespace%__OutputDataLong__c": {
+            "actionLabel": "Go to Contract Record",
+            "actionParameters": "{\"Id\":\"<<contractId>>\"}",
+            "actionTarget": "RecordPage",
+            "actionTargetName": "recordId",
+            "actionType": "Button",
+            "disableAction": "false",
+            "hideSection": "false",
+            "sequence": 1,
+            "stepMessage": "Contract created. Select <strong>Go to Contract Record</strong> to view the contract record.",
+            "stepStatus": "Warning",
+            "stepTitle": "Contract"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2023-07-31T18:30:00.000Z",
+        "IsLocked": false,
+        "MayEdit": true,
+        "Name": "c71b5568bef8523fa726de8c853bd873",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "NextStepsMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/1/%vlocity_namespace%__CalculationMatrix__c/NextStepsMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "807c49a0-57b2-13dd-00b7-8fc0507c31d7",
+        "%vlocity_namespace%__InputData__c": {
+            "status": "Draft",
+            "step": "Order"
+        },
+        "%vlocity_namespace%__OutputDataLong__c": {
+            "actionLabel": "Go to Order Record",
+            "actionParameters": "{\"Id\":\"<<orderId>>\"}",
+            "actionTarget": "RecordPage",
+            "actionTargetName": "recordId",
+            "actionType": "Button",
+            "disableAction": "false",
+            "hideSection": "false",
+            "sequence": 2,
+            "stepMessage": "Order created. Select <strong>Go to Order Record</strong> to view the order record.",
+            "stepStatus": "In Progress",
+            "stepTitle": "Order"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2023-07-31T18:30:00.000Z",
+        "IsLocked": false,
+        "MayEdit": true,
+        "Name": "3f88a3868259e971200f01193fc0224a",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "NextStepsMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/1/%vlocity_namespace%__CalculationMatrix__c/NextStepsMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "21508fdc-8938-9b5b-a171-aefc164cecbe",
+        "%vlocity_namespace%__InputData__c": {
+            "status": "Expired",
+            "step": "Contract"
+        },
+        "%vlocity_namespace%__OutputDataLong__c": {
+            "actionLabel": "Go to Contract Record",
+            "actionParameters": "{\"Id\":\"<<contractId>>\"}",
+            "actionTarget": "RecordPage",
+            "actionTargetName": "recordId",
+            "actionType": "Button",
+            "disableAction": "false",
+            "hideSection": "false",
+            "sequence": 1,
+            "stepMessage": "Contract Expired. Select <strong>Go to Contract Record</strong> to view the contract record.",
+            "stepStatus": "Warning",
+            "stepTitle": "Contract"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2023-07-31T18:30:00.000Z",
+        "IsLocked": false,
+        "MayEdit": true,
+        "Name": "88006e7a0dccc949814ad84fb1ac3b34",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "NextStepsMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/1/%vlocity_namespace%__CalculationMatrix__c/NextStepsMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "e5a5af00-d0a5-0dc8-417c-6875355a6390",
+        "%vlocity_namespace%__InputData__c": {
+            "status": "In Approval Process",
+            "step": "Contract"
+        },
+        "%vlocity_namespace%__OutputDataLong__c": {
+            "actionLabel": "Go to Contract Record",
+            "actionParameters": "{\"Id\":\"<<contractId>>\"}",
+            "actionTarget": "RecordPage",
+            "actionTargetName": "recordId",
+            "actionType": "Button",
+            "disableAction": "false",
+            "hideSection": "false",
+            "sequence": 1,
+            "stepMessage": "Contract In Approval Process. Select <strong>Go to Contract Record</strong> to view the contract record.",
+            "stepStatus": "In Progress",
+            "stepTitle": "Contract"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2023-07-31T18:30:00.000Z",
+        "IsLocked": false,
+        "MayEdit": true,
+        "Name": "eb805c9d391fdbd7e06ea86f4128fb2e",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "NextStepsMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/1/%vlocity_namespace%__CalculationMatrix__c/NextStepsMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "f990a433-d820-ef09-a607-f0eb6a4f1136",
+        "%vlocity_namespace%__InputData__c": {
+            "status": "Negotiating",
+            "step": "Contract"
+        },
+        "%vlocity_namespace%__OutputDataLong__c": {
+            "actionLabel": "Go to Contract Record",
+            "actionParameters": "{\"Id\":\"<<contractId>>\"}",
+            "actionTarget": "RecordPage",
+            "actionTargetName": "recordId",
+            "actionType": "Button",
+            "disableAction": "false",
+            "hideSection": "false",
+            "sequence": 1,
+            "stepMessage": "Contract Negotiating. Select <strong>Go to Contract Record</strong> to view the contract record.",
+            "stepStatus": "In Progress",
+            "stepTitle": "Contract"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2023-07-31T18:30:00.000Z",
+        "IsLocked": false,
+        "MayEdit": true,
+        "Name": "3dec7ae186febce4a7be57067d345346",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "NextStepsMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/1/%vlocity_namespace%__CalculationMatrix__c/NextStepsMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "ea1e1b31-d5d0-3d38-04a9-e67bd9836ef4",
+        "%vlocity_namespace%__InputData__c": {
+            "status": "Not Created",
+            "step": "Contract"
+        },
+        "%vlocity_namespace%__OutputDataLong__c": {
+            "actionLabel": "Generate New Contract",
+            "actionParameters": "{\"c__tabIcon\":\"custom:custom18\",\"c__tabLabel\":\"Create Contract\",\"c__ContextId\":\"<<cartId>>\"}",
+            "actionTarget": "Omniscript",
+            "actionTargetName": "c:dctCreateContractEnglish",
+            "actionType": "Button",
+            "disableAction": "false",
+            "hideSection": "false",
+            "sequence": 1,
+            "stepMessage": "Contract not created. Select <strong>Generate New Contract</strong> to start the contract process.",
+            "stepStatus": "Not Completed",
+            "stepTitle": "Contract"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2023-07-31T18:30:00.000Z",
+        "IsLocked": false,
+        "MayEdit": true,
+        "Name": "569f747fec4ae84ceac7af2908ac6653",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "NextStepsMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/1/%vlocity_namespace%__CalculationMatrix__c/NextStepsMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "8242e70f-a2e3-a4c6-38f8-2e9fcd895920",
+        "%vlocity_namespace%__InputData__c": {
+            "status": "Not Created",
+            "step": "Order"
+        },
+        "%vlocity_namespace%__OutputDataLong__c": {
+            "actionLabel": "Create Order",
+            "actionParameters": "{\"c__tabIcon\":\"custom:custom18\",\"c__tabLabel\":\"Create Order\",\"c__ContextId\":\"<<cartId>>\"}",
+            "actionTarget": "Omniscript",
+            "actionTargetName": "%vlocity_namespace%:cPQBulkQuoteToOrderMultiLanguage",
+            "actionType": "Button",
+            "disableAction": "false",
+            "hideSection": "false",
+            "sequence": 2,
+            "stepMessage": "Order not created. Click <strong>Create Order</strong> to generate order.",
+            "stepStatus": "Not Completed",
+            "stepTitle": "Order"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2023-07-31T18:30:00.000Z",
+        "IsLocked": false,
+        "MayEdit": true,
+        "Name": "fa1694deb0da6d38fb964e9670d04568",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "NextStepsMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/1/%vlocity_namespace%__CalculationMatrix__c/NextStepsMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "5f2e4191-468f-cdf4-0348-1feb684b08c3",
+        "%vlocity_namespace%__InputData__c": {
+            "status": "Rejected Internally",
+            "step": "Contract"
+        },
+        "%vlocity_namespace%__OutputDataLong__c": {
+            "actionLabel": "Go to Contract Record",
+            "actionParameters": "{\"Id\":\"<<contractId>>\"}",
+            "actionTarget": "RecordPage",
+            "actionTargetName": "recordId",
+            "actionType": "Button",
+            "disableAction": "false",
+            "hideSection": "false",
+            "sequence": 1,
+            "stepMessage": "Contract Rejected Internally. Select <strong>Go to Contract Record</strong> to view the contract record.",
+            "stepStatus": "Warning",
+            "stepTitle": "Contract"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2023-07-31T18:30:00.000Z",
+        "IsLocked": false,
+        "MayEdit": true,
+        "Name": "244c68dead5dc13beaf886c00a22cca3",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "NextStepsMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/1/%vlocity_namespace%__CalculationMatrix__c/NextStepsMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "bcc0c1da-b22a-cb13-9916-5ca8905d7c20",
+        "%vlocity_namespace%__InputData__c": {
+            "status": "Shipped",
+            "step": "Order"
+        },
+        "%vlocity_namespace%__OutputDataLong__c": {
+            "actionLabel": "Go to Order Record",
+            "actionParameters": "{\"Id\":\"<<orderId>>\"}",
+            "actionTarget": "RecordPage",
+            "actionTargetName": "recordId",
+            "actionType": "Button",
+            "disableAction": "false",
+            "hideSection": "false",
+            "sequence": 2,
+            "stepMessage": "Order Shipped. Select <strong>Go to Order Record</strong> to view the order record.",
+            "stepStatus": "In Progress",
+            "stepTitle": "Order"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2023-07-31T18:30:00.000Z",
+        "IsLocked": false,
+        "MayEdit": true,
+        "Name": "7b260bbfff2cf41b1bb05c97f1a49c2a",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "NextStepsMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/1/%vlocity_namespace%__CalculationMatrix__c/NextStepsMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "708681b6-3e1b-0567-2679-7d250ceddc3d",
+        "%vlocity_namespace%__InputData__c": {
+            "status": "Signature Declined",
+            "step": "Contract"
+        },
+        "%vlocity_namespace%__OutputDataLong__c": {
+            "actionLabel": "Go to Contract Record",
+            "actionParameters": "{\"Id\":\"<<contractId>>\"}",
+            "actionTarget": "RecordPage",
+            "actionTargetName": "recordId",
+            "actionType": "Button",
+            "disableAction": "false",
+            "hideSection": "false",
+            "sequence": 1,
+            "stepMessage": "Contract Signature Declined. Select <strong>Go to Contract Record</strong> to view the contract record.",
+            "stepStatus": "Warning",
+            "stepTitle": "Contract"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2023-07-31T18:30:00.000Z",
+        "IsLocked": false,
+        "MayEdit": true,
+        "Name": "843b0c945ccb208d1550156014d6be30",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "NextStepsMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/1/%vlocity_namespace%__CalculationMatrix__c/NextStepsMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "fd949418-43b2-2c3a-f9eb-3664c96bcbfb",
+        "%vlocity_namespace%__InputData__c": {
+            "status": "Signed",
+            "step": "Contract"
+        },
+        "%vlocity_namespace%__OutputDataLong__c": {
+            "actionLabel": "Go to Contract Record",
+            "actionParameters": "{\"Id\":\"<<contractId>>\"}",
+            "actionTarget": "RecordPage",
+            "actionTargetName": "recordId",
+            "actionType": "Button",
+            "disableAction": "false",
+            "hideSection": "false",
+            "sequence": 1,
+            "stepMessage": "Contract Signed. Select <strong>Go to Contract Record</strong> to view the contract record.",
+            "stepStatus": "In Progress",
+            "stepTitle": "Contract"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2023-07-31T18:30:00.000Z",
+        "IsLocked": false,
+        "MayEdit": true,
+        "Name": "cb72cbd7518aa38ee0af3b62c0a1ff75",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    },
+    {
+        "%vlocity_namespace%__CalculationMatrixVersionId__c": {
+            "%vlocity_namespace%__CalculationMatrixId__r.Name": "NextStepsMatrix",
+            "%vlocity_namespace%__VersionNumber__c": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "%vlocity_namespace%__CalculationMatrixVersion__c/1/%vlocity_namespace%__CalculationMatrix__c/NextStepsMatrix",
+            "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixVersion__c"
+        },
+        "%vlocity_namespace%__GlobalKey__c": "9dbebea7-6156-e738-59e7-75d57c110592",
+        "%vlocity_namespace%__InputData__c": {
+            "status": "Terminated",
+            "step": "Contract"
+        },
+        "%vlocity_namespace%__OutputDataLong__c": {
+            "actionLabel": "Go to Contract Record",
+            "actionParameters": "{\"Id\":\"<<contractId>>\"}",
+            "actionTarget": "RecordPage",
+            "actionTargetName": "recordId",
+            "actionType": "Button",
+            "disableAction": "false",
+            "hideSection": "false",
+            "sequence": 1,
+            "stepMessage": "Contract Terminated. Select <strong>Go to Contract Record</strong> to view the contract record.",
+            "stepStatus": "Warning",
+            "stepTitle": "Contract"
+        },
+        "%vlocity_namespace%__StartDateTime__c": "2023-07-31T18:30:00.000Z",
+        "IsLocked": false,
+        "MayEdit": true,
+        "Name": "d991dae43ac2d8bb84065ebd9ad0293a",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrixRow__c"
+    }
+]

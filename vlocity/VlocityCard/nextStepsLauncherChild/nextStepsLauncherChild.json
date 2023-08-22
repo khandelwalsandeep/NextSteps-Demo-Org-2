@@ -1,0 +1,343 @@
+{
+    "dataSource": {
+        "contextVariables": [
+        ],
+        "orderBy": {
+        },
+        "type": null,
+        "value": {
+        }
+    },
+    "enableLwc": true,
+    "isFlex": true,
+    "lwc": {
+        "DeveloperName": "cfNextStepsLauncherChild_1_Akshay",
+        "Id": "0Rb2t0000009apGCAQ",
+        "ManageableState": "unmanaged",
+        "MasterLabel": "cfNextStepsLauncherChild_1_Akshay",
+        "NamespacePrefix": "c"
+    },
+    "selectableMode": "Multi",
+    "states": [
+        {
+            "actions": [
+            ],
+            "blankCardState": false,
+            "childCards": [
+            ],
+            "components": {
+                "layer-0": {
+                    "children": [
+                        {
+                            "class": "slds-col ",
+                            "element": "customLwc",
+                            "elementLabel": "b2bNextStepsProgressRing",
+                            "name": "Custom LWC",
+                            "property": {
+                                "customlwcname": "b2bNextStepsProgressRing",
+                                "record": "{record}"
+                            },
+                            "size": {
+                                "default": "1",
+                                "isResponsive": false
+                            },
+                            "stateIndex": 0,
+                            "styleObject": {
+                                "size": {
+                                    "default": "1",
+                                    "isResponsive": false
+                                },
+                                "sizeClass": "slds-size_1-of-12 "
+                            },
+                            "type": "element",
+                            "userUpdatedElementLabel": true
+                        },
+                        {
+                            "class": "slds-col ",
+                            "element": "outputField",
+                            "elementLabel": "NextStepsLauncherText",
+                            "name": "Text",
+                            "property": {
+                                "card": "{card}",
+                                "mergeField": "%3Cdiv%3E%3Cstrong%3E%7BstepTitle%7D%3C/strong%3E%3C/div%3E%0A%3Cdiv%20class=%22slds-text-align_justify%22%3E%7BstepMessage%7D%3C/div%3E",
+                                "record": "{record}"
+                            },
+                            "size": {
+                                "default": "8",
+                                "isResponsive": true,
+                                "large": "7",
+                                "medium": "8",
+                                "small": "8"
+                            },
+                            "stateIndex": 0,
+                            "styleObject": {
+                                "background": {
+                                    "color": "",
+                                    "image": "",
+                                    "position": "",
+                                    "repeat": "",
+                                    "size": ""
+                                },
+                                "border": {
+                                    "color": "#cccccc",
+                                    "radius": "",
+                                    "style": "",
+                                    "type": [
+                                    ],
+                                    "width": ""
+                                },
+                                "class": " ",
+                                "container": {
+                                    "class": ""
+                                },
+                                "elementStyleProperties": {
+                                },
+                                "inlineStyle": "",
+                                "margin": [
+                                ],
+                                "padding": [
+                                ],
+                                "size": {
+                                    "default": "8",
+                                    "isResponsive": true,
+                                    "large": "7",
+                                    "medium": "8",
+                                    "small": "8"
+                                },
+                                "sizeClass": "slds-large-size_7-of-12  slds-medium-size_8-of-12  slds-small-size_8-of-12  slds-size_8-of-12 ",
+                                "style": "      \n         ",
+                                "text": {
+                                    "align": "",
+                                    "color": ""
+                                }
+                            },
+                            "styleObjects": [
+                                {
+                                    "conditionString": "",
+                                    "conditions": "default",
+                                    "draggable": false,
+                                    "key": 0,
+                                    "label": "Default",
+                                    "name": "Default",
+                                    "styleObject": {
+                                        "background": {
+                                            "color": "",
+                                            "image": "",
+                                            "position": "",
+                                            "repeat": "",
+                                            "size": ""
+                                        },
+                                        "border": {
+                                            "color": "#cccccc",
+                                            "radius": "",
+                                            "style": "",
+                                            "type": [
+                                            ],
+                                            "width": ""
+                                        },
+                                        "class": " ",
+                                        "container": {
+                                            "class": ""
+                                        },
+                                        "elementStyleProperties": {
+                                        },
+                                        "inlineStyle": "",
+                                        "margin": [
+                                        ],
+                                        "padding": [
+                                        ],
+                                        "size": {
+                                            "default": "8",
+                                            "isResponsive": true,
+                                            "large": "7",
+                                            "medium": "8",
+                                            "small": "8"
+                                        },
+                                        "sizeClass": "slds-large-size_7-of-12  slds-medium-size_8-of-12  slds-small-size_8-of-12  slds-size_8-of-12 ",
+                                        "style": "      \n         ",
+                                        "text": {
+                                            "align": "",
+                                            "color": ""
+                                        }
+                                    }
+                                }
+                            ],
+                            "type": "text",
+                            "userUpdatedElementLabel": true
+                        },
+                        {
+                            "class": "slds-col ",
+                            "element": "customLwc",
+                            "elementLabel": "b2bNextStepsAction",
+                            "name": "Custom LWC",
+                            "property": {
+                                "customlwcname": "b2bNextStepsAction",
+                                "record": "{record}"
+                            },
+                            "size": {
+                                "default": "4",
+                                "isResponsive": false
+                            },
+                            "stateIndex": 0,
+                            "styleObject": {
+                                "background": {
+                                    "color": "",
+                                    "image": "",
+                                    "position": "",
+                                    "repeat": "",
+                                    "size": ""
+                                },
+                                "border": {
+                                    "color": "",
+                                    "radius": "",
+                                    "style": "",
+                                    "type": "",
+                                    "width": ""
+                                },
+                                "class": "",
+                                "container": {
+                                    "class": ""
+                                },
+                                "elementStyleProperties": {
+                                },
+                                "inlineStyle": "",
+                                "margin": [
+                                ],
+                                "padding": [
+                                ],
+                                "size": {
+                                    "default": "4",
+                                    "isResponsive": false
+                                },
+                                "sizeClass": "slds-size_4-of-12 ",
+                                "style": "      \n         ",
+                                "text": {
+                                    "align": "",
+                                    "color": ""
+                                }
+                            },
+                            "styleObjects": [
+                                {
+                                    "conditionString": "",
+                                    "conditions": "default",
+                                    "draggable": false,
+                                    "key": 0,
+                                    "label": "Default",
+                                    "name": "Default",
+                                    "styleObject": {
+                                        "background": {
+                                            "color": "",
+                                            "image": "",
+                                            "position": "",
+                                            "repeat": "",
+                                            "size": ""
+                                        },
+                                        "border": {
+                                            "color": "",
+                                            "radius": "",
+                                            "style": "",
+                                            "type": "",
+                                            "width": ""
+                                        },
+                                        "class": "",
+                                        "container": {
+                                            "class": ""
+                                        },
+                                        "elementStyleProperties": {
+                                        },
+                                        "inlineStyle": "",
+                                        "margin": [
+                                        ],
+                                        "padding": [
+                                        ],
+                                        "size": {
+                                            "default": "4",
+                                            "isResponsive": false
+                                        },
+                                        "sizeClass": "slds-size_4-of-12 ",
+                                        "style": "      \n         ",
+                                        "text": {
+                                            "align": "",
+                                            "color": ""
+                                        }
+                                    }
+                                }
+                            ],
+                            "type": "element",
+                            "userUpdatedElementLabel": true
+                        }
+                    ]
+                }
+            },
+            "conditions": {
+                "group": [
+                ],
+                "id": "state-condition-object",
+                "isParent": true
+            },
+            "definedActions": {
+                "actions": [
+                ]
+            },
+            "documents": [
+            ],
+            "fields": [
+            ],
+            "isSmartAction": false,
+            "name": "Active",
+            "omniscripts": [
+            ],
+            "smartAction": {
+            },
+            "styleObject": {
+                "background": {
+                    "color": "",
+                    "image": "",
+                    "position": "",
+                    "repeat": "",
+                    "size": ""
+                },
+                "border": {
+                    "color": "",
+                    "radius": "",
+                    "style": "",
+                    "type": [
+                    ],
+                    "width": ""
+                },
+                "class": " ",
+                "container": {
+                    "class": ""
+                },
+                "elementStyleProperties": {
+                },
+                "inlineStyle": "",
+                "margin": [
+                ],
+                "padding": [
+                ],
+                "size": {
+                    "default": "12",
+                    "isResponsive": false
+                },
+                "sizeClass": "slds-size_12-of-12 ",
+                "style": "      \n         ",
+                "text": {
+                    "align": "",
+                    "color": ""
+                }
+            }
+        }
+    ],
+    "theme": "slds",
+    "title": "nextStepsLauncherChild",
+    "xmlJson": [
+    ],
+    "xmlObject": {
+        "apiVersion": 51,
+        "isExplicitImport": false,
+        "isExposed": true,
+        "masterLabel": "nextStepsLauncherChild",
+        "runtimeNamespace": "%vlocity_namespace%"
+    }
+}

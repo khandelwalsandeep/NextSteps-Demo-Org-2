@@ -1,0 +1,25 @@
+Name: NextSteps Components
+ignoreDependencies: false
+VlocityDataPackKeys:
+    - CalculationMatrix/NextStepsMatrix
+    - IntegrationProcedure/ESM_FetchNextStepsData
+    - VlocityCard/nextStepsLauncherChild
+    - VlocityCard/nextStepsLauncher
+    - quickActions/Quote.Next_Steps.quickAction
+    - aura/NextStepsLauncher
+    - lwc/b2bNextStepsAction
+    - lwc/b2bNextStepsProgressRing
+    - classes/NextStepsHelper.cls
+    - classes/NextStepsHandler.cls
+    - classes/NextStepsWrapper.cls
+VlocityTypesToFetch:
+    - CalculationMatrix
+    - CalculationMatrixVersion
+    - FlexCard
+    - IntegrationProcedure
+    - VlocityCard
+SalesforceTypesToFetch:
+    - ApexClass
+    - AuraDefinitionBundle
+    - LightningComponentBundle
+    - QuickAction

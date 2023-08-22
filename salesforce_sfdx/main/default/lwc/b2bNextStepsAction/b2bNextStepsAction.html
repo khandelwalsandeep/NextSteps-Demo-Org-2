@@ -1,0 +1,9 @@
+<template>
+    <div class="slds-text-align_right">
+        <button class="slds-button slds-button_outline-brand" if:true={isButton} onclick={nextStepsAction} disabled={record.disableAction}>{record.actionLabel}</button>
+        <a if:true={isLink} onclick={nextStepsAction} disabled={record.disableAction}>{record.actionLabel}</a>
+        <div if:true={isText}>
+            <lightning-formatted-rich-text value={record.actionLabel}></lightning-formatted-rich-text>
+        </div>
+    </div>
+</template>

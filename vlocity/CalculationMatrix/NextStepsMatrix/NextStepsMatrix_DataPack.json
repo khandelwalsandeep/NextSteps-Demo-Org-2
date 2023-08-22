@@ -1,0 +1,23 @@
+{
+    "%vlocity_namespace%__CalculationMatrixVersion__c": "NextStepsMatrix_Version.json",
+    "%vlocity_namespace%__Description__c": "",
+    "%vlocity_namespace%__GlobalKey__c": "e13c2217-e5ed-a637-68c8-ba5943fbdbc1",
+    "%vlocity_namespace%__GroupKey__c": "",
+    "%vlocity_namespace%__SubGroupKey__c": "",
+    "%vlocity_namespace%__VersionsWithLongOutputCount__c": 1,
+    "%vlocity_namespace%__WildcardColumn__c": "",
+    "%vlocity_namespace%__WildcardValue__c": "",
+    "IsLocked": false,
+    "MayEdit": true,
+    "Name": "NextStepsMatrix",
+    "RecordTypeId": {
+        "DeveloperName": "Standard",
+        "SobjectType": "%vlocity_namespace%__CalculationMatrix__c",
+        "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+        "VlocityLookupRecordSourceKey": "RecordType/%vlocity_namespace%__CalculationMatrix__c/Standard",
+        "VlocityRecordSObjectType": "RecordType"
+    },
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "%vlocity_namespace%__CalculationMatrix__c",
+    "VlocityRecordSourceKey": "%vlocity_namespace%__CalculationMatrix__c/NextStepsMatrix"
+}
